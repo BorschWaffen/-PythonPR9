@@ -1,0 +1,60 @@
+{
+  "champion": {
+    "name": "СумДУ",
+    "points": 100
+  },
+  "second_place": {
+    "name": "Шахтар",
+    "points": 82
+  },
+  "third_place": {
+    "name": "Динамо",
+    "points": 75
+  },
+  "all_teams_sorted": [
+    {
+      "name": "СумДУ",
+      "points": 100
+    },
+    {
+      "name": "Шахтар",
+      "points": 82
+    },
+    {
+      "name": "Динамо",
+      "points": 75
+    },
+    {
+      "name": "Зоря",
+      "points": 65
+    },
+    {
+      "name": "Дніпро",
+      "points": 58
+    },
+    {
+      "name": "Ворскла",
+      "points": 52
+    },
+    {
+      "name": "Олександрія",
+      "points": 48
+    },
+    {
+      "name": "Львів",
+      "points": 44
+    },
+    {
+      "name": "Колос",
+      "points": 41
+    },
+    {
+      "name": "Маріуполь",
+      "points": 38
+    },
+    {
+      "name": "Минай",
+      "points": 35
+    }
+  ]
+}
